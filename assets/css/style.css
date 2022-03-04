@@ -1096,11 +1096,10 @@ section {
 .testimonials .testimonial-item p {
   font-style: italic;
   margin: 0 15px 0 15px;
-  padding: 20px 20px 60px 20px;
+  padding: 10px 10px 10px 10px;
   background: #f0fafa;
   position: relative;
   border-radius: 6px;
-  position: relative;
   z-index: 1;
 }
 .testimonials .swiper-pagination {
@@ -1159,7 +1158,7 @@ section {
 
 .hehe{
 
-  max-height: 100%;
+  max-height: 250px;
 }
 
 
