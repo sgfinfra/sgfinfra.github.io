@@ -501,11 +501,12 @@ h6 {
 
 #hero .container {
 	text-align: center;
-	background: rgba(2, 2, 2, 0.9);
-	padding-top: 30px;
-	padding-bottom: 30px;
-	margin-bottom: 50px;
-	border-top: 4px solid #a4b7b8;
+	/*background: rgba(2, 2, 2, 0.9);
+	padding-top: 30px;*/
+	padding-bottom: 50px;
+	margin-bottom: 200px;
+  text-shadow: #111;
+
 }
 
 @media (max-width: 1200px) {
