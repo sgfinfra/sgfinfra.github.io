@@ -909,6 +909,7 @@ section {
 .counts .count-box {
 	box-shadow: -5px 1px 40px 0 rgba(0, 0, 0, 0.1);
 	padding: 30px;
+	margin-bottom: 10px;
 	width: 100%;
 }
 
@@ -948,6 +949,14 @@ section {
 .counts .count-box a:hover {
 	color: #3f77c0;
 }
+
+
+
+
+
+
+
+
 
 
 /*--------------------------------------------------------------
